@@ -13,3 +13,7 @@ mod: index.html
 ## 1.0.2
 ordenes_basicas.html
 mod: index.html
+
+## 1.0.3
+correcion del archivo editorconfig
+mod: index.html
